@@ -1,0 +1,5 @@
+get all tasks = /api/tasks/v1
+get task by id  = /api/tasks/:id
+create task = /api/tasks/post
+update task = /api/tasks/:id/put
+delete task = /api/tasks/:id

@@ -1,0 +1,17 @@
+{
+  "name": "taskmanagerapi",
+  "version": "1.0.0",
+  "description": "CRUD operation to manage tasks ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "harish",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
